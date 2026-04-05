@@ -5,7 +5,7 @@ CSE Student | Cyber Security Enthusiast
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning and Ethical Hacking followed by Prompt Engineering and Internal Testing.
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://nandhatech.org/),
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">]([https://www.zoho.com/](https://university.cappriciosec.com/)) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
+- CyberSec Learner @ [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">]([https://www.zoho.com/](https://university.cappriciosec.com/)) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - ✌️ Pronoun: Redhat Techie.
 - ⚡ Fun fact: I know 4 languages 😉.
 - Social Profiles
