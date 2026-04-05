@@ -4,7 +4,6 @@ CSE Student | Cyber Security Enthusiast
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning and Ethical Hacking followed by Prompt Engineering and Internal Testing.
-- Engineeing at [<img src="https://nandhatech.org/wp-content/uploads/2022/07/NCT-Logo-New.jpg" height="24">](https://nandhatech.org/),
 - CyberSec Learner @ [<img src="https://university.cappriciosec.com/university-logo.png" height="24">](https://university.cappriciosec.com/)
 - ✌️ Pronoun: Redhat Techie.
 - ⚡ Fun fact: I know 4 languages 😉.
