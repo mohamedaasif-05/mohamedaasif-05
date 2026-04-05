@@ -21,11 +21,11 @@ CSE Student | Cyber Security Enthusiast
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ### OS Stack ⚡
-<img width="48" height="48" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android-os"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+<img width="48" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/>
+<img width="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android-os"/>
+<img width="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
+<img width="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
+<img width="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 
 ![Aasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
