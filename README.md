@@ -25,6 +25,6 @@ CSE Student | Cyber Security Enthusiast
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aasif-a?theme=dark&font=Inter&ext=contest)
 - Here's my Leetcode Profile
-    <br /> [<img align="centre" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/aasif-a/)
+          <br /> [<img align="centre" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/aasif-a/)
 
 [![Aasif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedaasif-05&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
