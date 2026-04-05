@@ -5,7 +5,7 @@ CSE Student | Cyber Security Enthusiast
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning and Ethical Hacking followed by Prompt Engineering and Internal Testing.
 - CyberSec Learner @ [<img src="https://university.cappriciosec.com/university-logo.png" height="24">](https://university.cappriciosec.com/)
-- ✌️ Pronoun: Redhat Techie.
+- ✌️ Pronoun: Red Hat Techie.
 - ⚡ Fun fact: I know 4 languages 😉.
 - Reach me on
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/a-mohamedaasif/)  [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/aasif__.___?igsh=MXVyczZnODAyNGJreg==)  [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@annonymous_astro) 
