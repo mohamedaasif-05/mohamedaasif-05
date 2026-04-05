@@ -1,7 +1,7 @@
 ## Hi there 👋 It's Aasif here
 
 CSE Student | Cyber Security Enthusiast
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/fa/de/06/fade06fdb98c309859796fb0e764ab0d.gif">
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning and Ethical Hacking followed by Prompt Engineering and Internal Testing.
 - CyberSec Learner @ [<img src="https://university.cappriciosec.com/university-logo.png" height="24">](https://university.cappriciosec.com/)
