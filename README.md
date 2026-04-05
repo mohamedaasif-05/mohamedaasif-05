@@ -23,7 +23,7 @@ CSE Student | Cyber Security Enthusiast
 ### Workspace Spec ⚡
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aasif-a?theme=dark&font=Inter&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aasif-a?theme=dark&font=Roboto&ext=activity)
 - Here's my Leetcode Profile
            <br /> [<img align="centre" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/aasif-a/)
 - Here's my HackerRank Profile
