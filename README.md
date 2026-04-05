@@ -6,7 +6,7 @@ CSE Student | Cyber Security Enthusiast
 - 🌱 I’m currently learning and Ethical Hacking followed by Prompt Engineering and Internal Testing.
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://nandhatech.org/),
 - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">]([https://www.zoho.com/](https://university.cappriciosec.com/)) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
-- ✌️ Lifelong Tech Learner
+- ✌️ Pronoun: Redhat Techie.
 - ⚡ Fun fact: I know 4 languages 😉.
 - Social Profiles
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/a-mohamedaasif/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/aasif__.___?igsh=MXVyczZnODAyNGJreg==)
@@ -24,9 +24,7 @@ CSE Student | Cyber Security Enthusiast
 ### Workspace Spec ⚡
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedaasif-05&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aasif-a?theme=dark&font=Inter&ext=contest)
 (https://leetcode.com/aasif-a)
 
-[![Aasif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aasif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedaasif-05&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
