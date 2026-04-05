@@ -7,8 +7,8 @@ CSE Student | Cyber Security Enthusiast
 - CyberSec Learner @ [<img src="https://university.cappriciosec.com/university-logo.png" height="24">](https://university.cappriciosec.com/)
 - ✌️ Pronoun: Redhat Techie.
 - ⚡ Fun fact: I know 4 languages 😉.
-- Social Profiles
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/a-mohamedaasif/)  [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/aasif__.___?igsh=MXVyczZnODAyNGJreg==)  [<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" />](https://www.reddit.com/user/Badass_werewolf05/) 
+- Reach me on
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/a-mohamedaasif/)  [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/aasif__.___?igsh=MXVyczZnODAyNGJreg==)  [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@annonymous_astro) 
 
 ### Tech Stack ⚡
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
