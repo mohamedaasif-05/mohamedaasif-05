@@ -37,13 +37,13 @@ dev = Buy me a Coffee(☕)
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🔭 **Aspiring Cybersecurity Analyst** specializing in Network Security & AI Integration
+- 🔭 **Aspiring Cybersecurity Analyst** specializing in Network Security with AI Integration
 - 🌱 **Currently Learning:** Ethical Hacking, Prompt Engineering, Penetration Testing
 - 🏆 **Certified Python with DSA Developer** 
 - 🛡️ **Certified WiFi Pentester** (DSAC 101 - Cappriciosec University ☑️)
 - 📚 **NPTEL Elite+Silver** in AI for Management Course
 - 🎯 **5+ Workshops | 10+ Webinars | 3+ Hackathons**
-- 💬 **Languages:** Tamil, English, Hindi, Urdu, Arabic
+- 💬 **Languages Known:** 5 (Fun fact 😄) 
 - 📧 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/a-mohamedaasif/) | [Gmail](mailto:mohammedaasif86512@gmail.com)
 
 <br/>
