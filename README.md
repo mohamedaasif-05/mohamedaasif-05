@@ -29,7 +29,7 @@ class CybersecAnalyst:
     def motto(self):
         return "🔒 Security is not a feature, it's a mindset ⚙️"
 
-dev = Buy me a Coffee(☕)
+dev = Buy me a Coffee("☕")
 
                                               ☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ
 
