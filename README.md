@@ -193,6 +193,6 @@ dev = Buy me a Coffee(☕)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mohamedaasif-05&style=flat-square&color=70a5fd)](https://github.com/mohamedaasif-05)
 
-*Last Updated: 2024 | Built with 💪 and ☕ for CyberSecurity Excellence*
+*Last Updated: 2026 | Built with 💪 and ☕ for CyberSecurity Excellence*
 
 </div>
