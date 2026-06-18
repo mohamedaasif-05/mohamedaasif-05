@@ -31,7 +31,7 @@ class CybersecAnalyst:
 
 dev = Buy me a Coffee(☕)
 
-                                           ☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ
+                                              ☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ
 ```
 
 
