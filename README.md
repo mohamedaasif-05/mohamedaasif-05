@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=+███╗+++███╗+██████╗+██╗++██╗+█████╗+███╗+++███╗███████╗██████╗;+████╗+████║██╔═══██╗██║++██║██╔══██╗████╗+████║██╔════╝██╔══██╗;+██╔████╔██║██║+++██║███████║███████║██╔████╔██║█████╗++██║++██║;+██║╚██╔╝██║██║+++██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝++██║++██║;+██║+╚═╝+██║╚██████╔╝██║++██║██║++██║██║+╚═╝+██║███████╗██████╔╝;+╚═╝+++++╚═╝+╚═════╝+╚═╝++╚═╝╚═╝++╚═╝╚═╝+++++╚═╝╚══════╝╚═════╝" />
 
-# `AASIF . A`
+# `AASIF`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+CyberSec+Analyst+%7C+AI+%26+Network+Security_)
 
@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/j5IkU5xJ3zXbUXR8XA/giphy.gif" width="50" height="50"> About Me
+## <img src="https://img.icons8.com/arcade/64/hacker.png"> About Me
 
 ```python
 class CybersecAnalyst:
@@ -41,56 +41,56 @@ class CybersecAnalyst:
     def motto(self):
         return "🔒 Security is not a feature, it's a mindset ⚙️"
 
-dev = Buy me a Coffee("☕")
+dev = Buy me a Coffee(☕)
 
-                                              ☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ
+                                                ☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ
 
 ```
 
+## <img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-- 🔭 **Aspiring Cybersecurity Analyst** specializing in Network Security with AI Integration
-- 🌱 **Currently Learning:** Ethical Hacking, Prompt Engineering, Penetration Testing
+- 🔭 **Aspiring Cybersecurity**  Here's my  "[portfolio]("")"
+- 🌱 **Currently Learning:** Ethical Hacking, Prompt Engineering, Penetration Testing.
+- ✌️ **Pronoun:** Red Hat Techie.
 - 🏆 **Certified Python with DSA Developer** 
-- 🛡️ **Certified WiFi Pentester** (DSAC 101 - Cappriciosec University ☑️)
+- 🛡️ **Certified WiFi Pentester** DSAC 101 - [<img src="https://university.cappriciosec.com/university-logo.png" height="24">](https://university.cappriciosec.com/)
 - 📚 **NPTEL Elite+Silver** in AI for Management Course
 - 🎯 **5+ Workshops | 10+ Webinars | 3+ Hackathons**
 - 💬 **Languages Known:** 5 (Fun fact 😄) 
 - 📧 **Reach Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-mohamedaasif/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaaasif005@gmail.com)
 
-
 ---
-
 
 ## <img src="https://img.icons8.com/color/50/lightning-bolt.png" width="50"> Tech Stack
 
 ### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/sql.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/bash.png"/> 
 
 ### **Security & Tools**
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/liquid-glass/48/github.png"/> <img height="50" src="https://img.icons8.com/color/48/linux--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/kali-linux.png"/>
 
 ### **Databases & Frameworks**
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<img height="50" width="50" src="https://img.icons8.com/color/48/mysql--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/node-js.png"/>
 
 ### **Operating Systems**
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+<img width="48" height="48" src="https://img.icons8.com/color/48/windows-11.png" alt="windows-11"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/android-os.png" alt="android-os"/> <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png"/> <img width="48" height="48" src="https://img.icons8.com/3d-sugary/100/apple-4.png"/>
+
+### **Workspace Specs**
+<img height="30" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+
+---
+## <img src="https://img.icons8.com/liquid-glass/48/source-code.png"> Coding Freaks
+
+### **Platforms & Analysis**
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aasif-a?theme=dark&font=Roboto&ext=activity)
+
+### **Profiles**
+
+- Here's my Leetcode Profile
+           <br /> [<img align="centre" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/aasif-a/)
+- Here's my HackerRank Profile
+           <br /> [<img align="centre" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/profile/Mdaasif_005)
 
 ---
 
@@ -119,14 +119,6 @@ dev = Buy me a Coffee("☕")
 
 ---
 
-## <img src="https://img.icons8.com/color/50/trophy.png" width="50"> Trophy Wall
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mohamedaasif-05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/mohamedaasif-05)
-
-</div>
-
 ---
 
 ## <img src="https://img.icons8.com/color/50/project.png" width="50"> Featured Projects
@@ -139,7 +131,7 @@ dev = Buy me a Coffee("☕")
 
 ---
 
-## <img src="https://img.icons8.com/color/50/award.png" width="50"> Achievements & Certifications
+## <img src="https://img.icons8.com/color/50/trophy.png" width="50" width="50"> Achievements & Certifications
 
 | 🏅 Achievement | 📊 Details |
 |----------------|-----------|
@@ -151,14 +143,6 @@ dev = Buy me a Coffee("☕")
 | **🎓 85%+ Academic Performance** | Consistent excellence across all educational levels |
 
 ---
-
-## <img src="https://img.icons8.com/color/50/graduation-cap.png" width="50"> Education
-
-| 🎓 Degree | 🏫 Institution | 📅 Period | 📈 Score |
-|-----------|---------------|----------|---------|
-| **B.E. Computer Science & Engineering** | Nandha College of Technology, Perundurai | Sept 2024 - Jun 2028 | **CGPA: 8.24** |
-| **HSC (+2) - CS-MATH** | The Sengunthar Hr. Sec. School, Erode | Jun 2023 - May 2024 | **83%** |
-| **SSLC (10th) - Major Subjects** | The Sengunthar Hr. Sec. School, Erode | Sept 2021 - May 2022 | **87%** |
 
 ---
 
@@ -193,7 +177,7 @@ dev = Buy me a Coffee("☕")
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-mohamedaasif/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedaasif86512@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaaasif005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaasif-05)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aasif__.___/)
 
