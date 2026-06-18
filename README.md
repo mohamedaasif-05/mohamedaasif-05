@@ -44,9 +44,8 @@ dev = Buy me a Coffee(☕)
 - 📚 **NPTEL Elite+Silver** in AI for Management Course
 - 🎯 **5+ Workshops | 10+ Webinars | 3+ Hackathons**
 - 💬 **Languages Known:** 5 (Fun fact 😄) 
-- 📧 **Reach Me:** [LinkedIn](img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/)(https://www.linkedin.com/in/a-mohamedaasif/) | [Gmail](mailto:mohammedaasif86512@gmail.com)
+- 📧 **Reach Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-mohamedaasif/)
 
-<br/>
 
 ---
 
