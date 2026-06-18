@@ -99,8 +99,8 @@ dev = Buy me a Coffee(☕)
 <div align="center">
 
 <a href="https://github.com/mohamedaasif-05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedaasif-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaasif-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedaasif-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF00&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaasif-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9&langs_count=8&border_radius=10" />
 </a>
 
 </div>
@@ -115,7 +115,7 @@ dev = Buy me a Coffee(☕)
 
 ## <img src="https://img.icons8.com/color/50/activity.png" width="50"> Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedaasif-05&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mohamedaasif-05)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedaasif-05&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -179,7 +179,7 @@ dev = Buy me a Coffee(☕)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-mohamedaasif/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaaasif005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaasif-05)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aasif__.___/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_a_a_s_i_f_05?igsh=MXVyczZnODAyNGJreg==)
 
 </div>
 
