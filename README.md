@@ -30,8 +30,9 @@ class CybersecAnalyst:
         return "🔒 Security is not a feature, it's a mindset ⚙️"
 
 dev = Buy me a Coffee(☕)
+                      ☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ
 ```
-☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ
+
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
