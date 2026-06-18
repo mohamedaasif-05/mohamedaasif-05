@@ -1,8 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Aasif%20A&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CyberSec%20Analyst%20%7C%20AI%20%26%20Network%20Security&descAlignY=65&descSize=18" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Cybersecurity+Analyst;AI+%26+Network+Security+Enthusiast;Ethical+Hacker+%7C+Pentester;Linux+Aficionado+%26+Python+Dev)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=+███╗+++███╗+██████╗+██╗++██╗+█████╗+███╗+++███╗███████╗██████╗;+████╗+████║██╔═══██╗██║++██║██╔══██╗████╗+████║██╔════╝██╔══██╗;+██╔████╔██║██║+++██║███████║███████║██╔████╔██║█████╗++██║++██║;+██║╚██╔╝██║██║+++██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝++██║++██║;+██║+╚═╝+██║╚██████╔╝██║++██║██║++██║██║+╚═╝+██║███████╗██████╔╝;+╚═╝+++++╚═╝+╚═════╝+╚═╝++╚═╝╚═╝++╚═╝╚═╝+++++╚═╝╚══════╝╚═════╝" />
+
+# `AASIF . A`
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+CyberSec+Analyst+%7C+AI+%26+Network+Security_)
+
+![](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/CLEARANCE-GRANTED-70A5FD?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/LOCATION-UNKNOWN_💀-BF91F3?style=flat-square&labelColor=0d1117)
+
+![](https://img.shields.io/badge/⚡_ETHICAL_HACKER-0d1117?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=hackthebox&logoColor=00FF41)
+![](https://img.shields.io/badge/🛡_NETWORK_SECURITY-0d1117?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=wireshark&logoColor=70A5FD)
+![](https://img.shields.io/badge/🤖_AI_INTEGRATION-0d1117?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=openai&logoColor=BF91F3)
+
+`> whoami → Mohamed Aasif A` `[ INITIALIZING... ]`
 
 </div>
 
