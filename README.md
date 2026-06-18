@@ -39,8 +39,8 @@ dev = Buy me a Coffee(☕)
 
 - 🔭 **Aspiring Cybersecurity Analyst** specializing in Network Security & AI Integration
 - 🌱 **Currently Learning:** Ethical Hacking, Prompt Engineering, Penetration Testing
-- 🏆 **Certified Python with DSA Developer** (Udemy - Krish Naik)
-- 🛡️ **Certified WiFi Pentester** (DSAC 101 - Cappriciosec University)
+- 🏆 **Certified Python with DSA Developer** 
+- 🛡️ **Certified WiFi Pentester** (DSAC 101 - Cappriciosec University ☑️)
 - 📚 **NPTEL Elite+Silver** in AI for Management Course
 - 🎯 **5+ Workshops | 10+ Webinars | 3+ Hackathons**
 - 💬 **Languages:** Tamil, English, Hindi, Urdu, Arabic
