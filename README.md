@@ -15,19 +15,19 @@ class CybersecAnalyst:
     def __init__(self):
         self.name = "Aasif"
         self.location = "Unknown 💀"
-        self.degree = "Computer Science & Engineering"
+        self.degree = "Computer Science & Engineering 🧑‍💻"
         
     def languages(self):
-        return ["Python", "Java", "JavaScript", "SQL", "Bash"]
+        return ["Python", "Java", "JavaScript", "SQL", "Bash", "etc..."] 🧠
     
     def currently_learning(self):
-        return ["Ethical Hacking", "Prompt Engineering", "Penetration Testing", "Network Security"]
+        return ["Ethical Hacking", "Prompt Engineering", "Penetration Testing", "Network Security"] 💻
     
     def fun_fact(self):
         return "I speak 4 languages: 🗣️"
     
     def motto(self):
-        return "🔒 Security is not a feature, it's a mindset"
+        return "🔒 Security is not a feature, it's a mindset ⚙️"
 
 dev = Buy me a Coffee(☕)
 ```
