@@ -36,7 +36,7 @@ dev = Buy me a Coffee(☕)
 ```
 
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🔭 **Aspiring Cybersecurity Analyst** specializing in Network Security with AI Integration
 - 🌱 **Currently Learning:** Ethical Hacking, Prompt Engineering, Penetration Testing
@@ -45,7 +45,7 @@ dev = Buy me a Coffee(☕)
 - 📚 **NPTEL Elite+Silver** in AI for Management Course
 - 🎯 **5+ Workshops | 10+ Webinars | 3+ Hackathons**
 - 💬 **Languages Known:** 5 (Fun fact 😄) 
-- 📧 **Reach Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-mohamedaasif/)
+- 📧 **Reach Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-mohamedaasif/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaaasif005@gmail.com)
 
 
 ---
