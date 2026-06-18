@@ -14,7 +14,7 @@
 class CybersecAnalyst:
     def __init__(self):
         self.name = "Aasif"
-        self.location = "Unknown..."
+        self.location = "Unknown 💀"
         self.degree = "Computer Science & Engineering"
         
     def languages(self):
@@ -29,7 +29,7 @@ class CybersecAnalyst:
     def motto(self):
         return "🔒 Security is not a feature, it's a mindset"
 
-dev = CybersecAnalyst()
+dev = Buy me a Coffee(☕)
 ```
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
