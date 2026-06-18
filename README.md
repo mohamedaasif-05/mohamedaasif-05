@@ -13,12 +13,9 @@
 ```python
 class CybersecAnalyst:
     def __init__(self):
-        self.name = "Mohamed Aasif A"
-        self.location = "Erode, Tamil Nadu, India 🇮🇳"
-        self.email = "mohammedaasif86512@gmail.com"
-        self.degree = "B.E. Computer Science & Engineering"
-        self.university = "Nandha College of Technology"
-        self.cgpa = 8.24
+        self.name = "Aasif"
+        self.location = "Unknown..."
+        self.degree = "Computer Science & Engineering"
         
     def languages(self):
         return ["Python", "Java", "JavaScript", "SQL", "Bash"]
@@ -27,7 +24,7 @@ class CybersecAnalyst:
         return ["Ethical Hacking", "Prompt Engineering", "Penetration Testing", "Network Security"]
     
     def fun_fact(self):
-        return "I speak 4 languages: Tamil, English, Hindi, Urdu, Arabic 🗣️"
+        return "I speak 4 languages: 🗣️"
     
     def motto(self):
         return "🔒 Security is not a feature, it's a mindset"
