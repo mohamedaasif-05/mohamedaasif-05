@@ -121,7 +121,7 @@ dev = Buy me a Coffee(☕)
 <div align="center">
 
 <a href="https://github.com/mohamedaasif-05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedaasif-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=00FF00&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedaasif-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFFFFF&icon_color=00FF00&text_color=FFFFFF&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaasif-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=00FF00&langs_count=8&border_radius=10" />
 </a>
 
@@ -232,7 +232,8 @@ dev = Buy me a Coffee(☕)
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohamedaasif-05&style=flat-square&color=70a5fd)](https://github.com/mohamedaasif-05)
+![GitHub followers](https://img.shields.io/github/followers/mohamedaasif-05?label=Followers&style=flat-square&color=70a5fd&labelColor=0d1117&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/mohamedaasif-05?label=Total%20Stars&style=flat-square&color=00FF41&labelColor=0d1117&logo=github)
 
 *Built with 💪 and ☕ for CyberSecurity Excellence*
 
