@@ -236,6 +236,8 @@ dev = Buy me a Coffee(☕)
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=130&section=footer&animation=twinkling&fontColor=00ff41" />
-</p>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
