@@ -222,7 +222,9 @@ dev = Buy me a Coffee(☕)
 ▸ logout → session closed                          [ EXIT CODE: 0 ] ✓
 ```
 
+
 ⭐ **If you find my work interesting, consider giving it a star!** ⭐
+
 
 ![](https://img.shields.io/badge/▸_whoami-Mohamed_Aasif_A-00FF41?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/📡_ping-0ms_|_uptime_∞-70A5FD?style=flat-square&labelColor=0d1117)
