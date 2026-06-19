@@ -129,7 +129,7 @@ dev = Buy me a Coffee(☕)
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedaasif-05&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FF00&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedaasif-05&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=FFFFFF&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
