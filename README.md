@@ -1,20 +1,42 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=13&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=+███╗+++███╗+██████╗+██╗++██╗+█████╗+███╗+++███╗███████╗██████╗;+████╗+████║██╔═══██╗██║++██║██╔══██╗████╗+████║██╔════╝██╔══██╗;+██╔████╔██║██║+++██║███████║███████║██╔████╔██║█████╗++██║++██║;+██║╚██╔╝██║██║+++██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝++██║++██║;+██║+╚═╝+██║╚██████╔╝██║++██║██║++██║██║+╚═╝+██║███████╗██████╔╝;+╚═╝+++++╚═╝+╚═════╝+╚═╝++╚═╝╚═╝++╚═╝╚═╝+++++╚═╝╚══════╝╚═════╝" />
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║  ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗        ║
+║  ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗       ║
+║  ██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║       ║
+║  ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║       ║
+║  ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝       ║
+║  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝       ║
+║                                                                          ║
+║              ░█████╗░░█████╗░░██████╗██╗███████╗                        ║
+║              ██╔══██╗██╔══██╗██╔════╝██║██╔════╝                        ║
+║              ███████║███████║╚█████╗ ██║█████╗                          ║
+║              ██╔══██║██╔══██║░╚═══██╗██║██╔══╝                          ║
+║              ██║  ██║██║  ██║██████╔╝██║██║                             ║
+║              ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝                            ║
+║                                                                          ║
+║  ════════════[ SYSTEM ONLINE | ACCESS GRANTED ]════════════             ║
+║        CyberSec Analyst  ·  AI & Network Security                       ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-# `AASIF`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+Aspiring+Cybersecurity+Analyst...;%3E+Ethical+Hacker+%7C+Pentester...;%3E+AI+%26+Network+Security+Enthusiast...;%3E+Linux+Aficionado+%26+Python+Dev...;%3E+AWS+and+Cloud...;)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+CyberSec+Analyst+%7C+AI+%26+Network+Security_)
+![](https://img.shields.io/badge/●_STATUS-ONLINE-00FF41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/🔓_CLEARANCE-GRANTED-70A5FD?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/💀_LOCATION-UNKNOWN-BF91F3?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/⚠_THREAT_LEVEL-HACKER-f0883e?style=flat-square&labelColor=0d1117)
 
-![](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/CLEARANCE-GRANTED-70A5FD?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/LOCATION-UNKNOWN_💀-BF91F3?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/⚡_ETHICAL_HACKER-161b22?style=flat-square&labelColor=161b22&color=161b22&logoColor=00FF41&logo=hackthebox)
+![](https://img.shields.io/badge/🛡_NETWORK_SECURITY-161b22?style=flat-square&labelColor=161b22&color=161b22&logoColor=70A5FD&logo=wireshark)
+![](https://img.shields.io/badge/🤖_AI_INTEGRATION-161b22?style=flat-square&labelColor=161b22&color=161b22&logoColor=BF91F3&logo=openai)
+![](https://img.shields.io/badge/🐍_PYTHON_DEV-161b22?style=flat-square&labelColor=161b22&color=161b22&logoColor=3776AB&logo=python)
+![](https://img.shields.io/badge/🐧_LINUX-161b22?style=flat-square&labelColor=161b22&color=161b22&logoColor=FCC624&logo=linux)
+![](https://img.shields.io/badge/🔐_PENTESTER-161b22?style=flat-square&labelColor=161b22&color=161b22&logoColor=f0883e&logo=kalilinux)
 
-![](https://img.shields.io/badge/⚡_ETHICAL_HACKER-0d1117?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=hackthebox&logoColor=00FF41)
-![](https://img.shields.io/badge/🛡_NETWORK_SECURITY-0d1117?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=wireshark&logoColor=70A5FD)
-![](https://img.shields.io/badge/🤖_AI_INTEGRATION-0d1117?style=for-the-badge&color=0d1117&labelColor=0d1117&logo=openai&logoColor=BF91F3)
-
-`> whoami → Mohamed Aasif A` `[ INITIALIZING... ]`
+`▸ whoami → Mohamed Aasif` &nbsp;&nbsp; `ping: 0ms | uptime: ∞`
 
 </div>
 
@@ -43,7 +65,7 @@ class CybersecAnalyst:
 
 dev = Buy me a Coffee(☕)
 
-                                                ☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ
+                                                 ☕︎‧₊˚⏱٠࣪⋆💻₊˚ᵎ
 
 ```
 
@@ -144,8 +166,6 @@ dev = Buy me a Coffee(☕)
 
 ---
 
----
-
 ## <img src="https://img.icons8.com/color/50/books.png" width="50"> Currently Learning
 
 ```
@@ -185,14 +205,33 @@ dev = Buy me a Coffee(☕)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
 <div align="center">
 
-**⭐ If you find my work interesting, consider giving it a star! ⭐**
+```
+[ SESSION TERMINATING... ]
+════════════════════════════════════════════════════════════════════════════
+
+ ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗    ██╗   ██╗ ██████╗ ██╗   ██╗
+ ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝    ╚██╗ ██╔╝██╔═══██╗██║   ██║
+    ██║   ███████║███████║██╔██╗ ██║█████╔╝      ╚████╔╝ ██║   ██║██║   ██║
+    ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗       ╚██╔╝  ██║   ██║██║   ██║
+    ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗       ██║   ╚██████╔╝╚██████╔╝
+    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝       ╚═╝    ╚═════╝  ╚═════╝
+
+════════════════════════════════════════════════════════════════════════════
+▸ logout → session closed                          [ EXIT CODE: 0 ] ✓
+```
+
+⭐ **If you find my work interesting, consider giving it a star!** ⭐
+
+![](https://img.shields.io/badge/▸_whoami-Mohamed_Aasif_A-00FF41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/📡_ping-0ms_|_uptime_∞-70A5FD?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/🔒_motto-Security_is_a_mindset-f0883e?style=flat-square&labelColor=0d1117)
+
+---
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mohamedaasif-05&style=flat-square&color=70a5fd)](https://github.com/mohamedaasif-05)
 
-*Last Updated: 2026 | Built with 💪 and ☕ for CyberSecurity Excellence*
+*Built with 💪 and ☕ for CyberSecurity Excellence*
 
 </div>
