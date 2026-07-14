@@ -225,7 +225,7 @@ dev = Buy me a Coffee(☕)
 ⭐ **If you find my work interesting, consider giving it a star!** ⭐
 
 
-![](https://img.shields.io/badge/▸_whoami-Mohamed_Aasif_A-00FF41?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/▸_whoami-Mohamed_Aasif_A-00FF00?style=flat-square&labelColor=000000)
 ![](https://img.shields.io/badge/📡_ping-0ms_|_uptime_∞-70A5FD?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/🔒_motto-Security_is_a_mindset-f0883e?style=flat-square&labelColor=0d1117)
 
