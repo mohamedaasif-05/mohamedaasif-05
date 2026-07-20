@@ -141,31 +141,6 @@ dev = Buy me a Coffee(☕)
 
 ---
 
----
-
-## <img src="https://img.icons8.com/color/50/project.png" width="50"> Featured Projects
-
-| 🔗 Project | 💻 Stack | ⭐ Highlights |
-|-----------|---------|-------------|
-| **AI NLP Chatbot** | `HTML` `CSS` `JavaScript` `SQL` | Intelligent chatbot providing college details, admission guidance, and campus info. Integrated admin dashboard for work management. |
-| **WiFi Pentesting Tool** | `Kali Linux` `Terminal` `Python` | Educational security tool for network testing. Features: Deauth attacks, spam detection, captive portal creation. |
-| **Portfolio Website** | `HTML` `CSS` `JavaScript` `Git` | Professional personal portfolio with enhanced animations, resume display, and responsive design. |
-
----
-
-## <img src="https://img.icons8.com/color/50/trophy.png" width="50" width="50"> Achievements & Certifications
-
-| 🏅 Achievement | 📊 Details |
-|----------------|-----------|
-| **🐍 Python with DSA Certified Developer** | Udemy Course by Krish Naik - Comprehensive Python & Data Structure training |
-| **🛡️ Certified WiFi Pentester (DSAC 101)** | Cappriciosec University - Professional penetration testing certification |
-| **🤖 NPTEL Elite+Silver Certification** | AI for Management Course (12 weeks) - Advanced AI concepts |
-| **🎯 5+ Workshops & 10+ Webinars** | Participated in technical and cybersecurity training programs |
-| **🏆 3+ Hackathon Participations** | Intra and Inter-Department events with prizes & honors |
-| **🎓 85%+ Academic Performance** | Consistent excellence across all educational levels |
-
----
-
 ## <img src="https://img.icons8.com/color/50/books.png" width="50"> Currently Learning
 
 ```
