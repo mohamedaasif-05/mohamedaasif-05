@@ -121,9 +121,6 @@ dev = Buy me a Coffee(☕)
 <div align="center">
 
 <a href="https://github.com/mohamedaasif-05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedaasif-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFFFFF&icon_color=00FF00&text_color=FFFFFF&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaasif-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=00FF00&langs_count=8&border_radius=10" />
-</a>
 
 </div>
 
