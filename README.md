@@ -105,12 +105,12 @@ dev = Buy me a Coffee(☕)
 
 ### **Platforms & Analysis**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aasif-a?theme=dark&font=Roboto&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/a_aasif?theme=dark&font=Inter&ext=contest)
 
 ### **Profiles**
 
 - Here's my Leetcode Profile
-           <br /> [<img align="centre" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/aasif-a/)
+           <br /> [<img align="centre" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/u/a_aasif/)
 - Here's my HackerRank Profile
            <br /> [<img align="centre" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/profile/Mdaasif_005)
 
